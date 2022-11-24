@@ -1,0 +1,62 @@
+.Button1{
+	background-color: #FFB6A8;
+}
+
+.Button1:hover{
+	background-color: #E9A698;
+}
+
+#headingOne{
+	background-color: #FFB6A8;
+	font-weight: bold;
+	color: #252525;
+}
+
+#headingTwo{
+	background-color: #FFB6A8;
+	font-weight: bold;
+	color: #252525;
+}
+
+#headingThree{
+	background-color: #FFB6A8;
+	font-weight: bold;
+	color: #252525;
+}
+
+.Button2{
+	font-size: 20px;
+}
+
+.Button3{
+	background-color: #FFB6A8;
+	margin-top: 2rem;
+	float: right;
+}
+
+.Button3:hover{
+	background-color: #E9A698;
+}
+
+#services{
+	margin-top: 1rem;
+}
+
+.servicesList{
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	border: 0;
+}
+
+.columnCarousel{
+	height: 80vh;
+}
+
+.imgCarousel{
+	background-size: auto;
+}
+
+#testimonial{
+	height: 50%;
+}
